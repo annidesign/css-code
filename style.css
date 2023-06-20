@@ -1,0 +1,9 @@
+.accord_about .elementor-accordion-item {
+      border-bottom: 1px solid #ddd;
+	    padding: 8px 0;
+}
+.accord_about .elementor-tab-title {
+    box-shadow: 0px 0px 5px #888888;
+    border-radius: 8px;
+	padding: 14px 20px;
+}
